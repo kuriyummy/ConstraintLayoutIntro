@@ -6,11 +6,11 @@
     <string name="share">Поделиться</string>
     <string name="actors_label">Актёры</string>
     <string name="director_label">Режиссёр</string>
-    <string name="movie_title">Бегущий по лезвию 2049</string>
-    <string name="actor_1" translatable="false">Харисон Форд</string>
-    <string name="actor_2" translatable="false">Райн Гослинг</string>
-    <string name="actor_3" translatable="false">Анна де Армас</string>
-    <string name="actor_4" translatable="false">Дэйв Батиста</string>
-    <string name="director" translatable="false">Дэни Вильнёв</string>
-    <string name="move_short_description" translatable="false">В недалеком будущем мир населен людьми и репликантами, созданными выполнять самую тяжелую работу. Работа офицера полиции Кей - держать репликантов под контролем в условиях нарастающего напряжения...</string>
+    <string name="movie_title">Дьявол в деталях</string>
+    <string name="actor_1" translatable="false">Дэнзел Вашингтон</string>
+    <string name="actor_2" translatable="false">Джаред Лето</string>
+    <string name="actor_3" translatable="false">Рами Малек</string>
+    <string name="actor_4" translatable="false">Крис Бауэр</string>
+    <string name="director" translatable="false">Джон Ли Хэнкок</string>
+    <string name="move_short_description" translatable="false">Перспективный молодой детектив Бакстер объединяет усилия с замученным помощником шерифа Диком, чтобы поймать серийного маньяка. Дик как никто другой умеет находить важные для дела мелочи, но совсем не любит соблюдать правила, из-за чего Бакстер оказывается перед сложным выбором.</string>
 </resources>
